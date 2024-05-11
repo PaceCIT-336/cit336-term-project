@@ -4,7 +4,7 @@
 // require_once("db_connect.php");
 
 $host = 'localhost';
-$port = '3307';
+//$port = '3307';
 $database = ''; // enter your database name here
 $user = ''; // enter your database username here
 $password = ''; // enter your database password here
